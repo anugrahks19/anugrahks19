@@ -25,7 +25,7 @@ Hey 👋 I’m Anugrah, a B.Tech student at Sahrdaya College of Engineering and 
 [![](https://visitcount.itsvg.in/api?id=anugrahks19&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anugrahks) [![chai4.me](https://github.com/anugrahks19/anugrahks19/blob/main/wordmark.png)](https://www.chai4.me/anugrahks) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anugrahks) [![chai4.me](https://github.com/anugrahks19/anugrahks19/blob/main/chai4.me.png)](https://www.chai4.me/anugrahks) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
