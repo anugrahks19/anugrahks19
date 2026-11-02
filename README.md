@@ -1,5 +1,5 @@
 <a href="https://anugrahks.vercel.app/">
-  <img src="assets/flowing-banner-no-mascot.gif" alt="Anugrah K S - animated flowing lines and an expressive face" width="100%" />
+  <img src="assets/flowing-banner-compact.gif" alt="Anugrah K S - animated flowing lines" width="100%" />
 </a>
 
 # 💫 About Me:
